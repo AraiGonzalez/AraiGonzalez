@@ -14,7 +14,6 @@ Técnica superior en desarrollo de software, con 2 años de experiencia como des
 **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -31,9 +30,7 @@ Técnica superior en desarrollo de software, con 2 años de experiencia como des
 **Datos y mensajería**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![ActiveMQ](https://img.shields.io/badge/ActiveMQ-D22128?style=flat&logo=apache&logoColor=white)
 
 **Otros:** JPA/Hibernate · APIs REST y SOAP · Microservicios · Git · Postman
 
@@ -50,12 +47,12 @@ Técnica superior en desarrollo de software, con 2 años de experiencia como des
 | **Tienda de Té** | Clon de e-commerce con carrito de compras y diseño responsive. | HTML, CSS, JavaScript, Bootstrap | [Ver proyecto](https://araigonzalez.github.io/somos-t--clon-web/) |
 | **Website Sketch** | Maqueta web estática con foco en maquetado semántico y responsive design. | HTML, CSS | [Ver proyecto](https://araigonzalez.github.io/MDHL/) |
 
-Podés ver todos con más detalle en mi [portafolio](https://araigonzalez.github.io/Portafolio-Arai/Proyectos.html).
+Podés toda la información sobre mi: [portafolio](https://araigonzalez.github.io/Portafolio-Arai/Proyectos.html).
 
 ---
 
 ## 📫 Contacto
 
 - 🌐 [Portafolio](https://araigonzalez.github.io/Portafolio-Arai/contacto.html)
-- 💼 LinkedIn: _[agregá tu link]_
-- ✉️ Email: _[agregá tu email]_
+- 💼 LinkedIn: https://www.linkedin.com/in/arai-gonzalez/
+- ✉️ Email: arai.gonzalez22@gmail.com
